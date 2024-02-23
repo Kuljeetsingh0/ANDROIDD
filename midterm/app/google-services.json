@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918871376328",
+    "project_id": "midterm-4902a",
+    "storage_bucket": "midterm-4902a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918871376328:android:56f473fe7bb7195e3a80fd",
+        "android_client_info": {
+          "package_name": "com.example.midterm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY__35Xzznopktrt4j8RpsZgAdK-JsM28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
